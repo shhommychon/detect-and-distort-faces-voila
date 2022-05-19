@@ -1,9 +1,9 @@
 # Detect and Distort Faces
 
-- 웹에서 ipynb 실행
-  - 사진: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shhommychon/detect-and-distort-faces-voila/blob/main/_colab_pic/infer_pic.ipynb)
-  - 비디오: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shhommychon/detect-and-distort-faces-voila/blob/main/_colab_vid/infer_vid.ipynb)
-  - 웹캠: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shhommychon/detect-and-distort-faces-voila/blob/main/_colab_cam/infer_cam.ipynb)
+- Binder에서 이 repo를 실행: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shhommychon/detect-and-distort-faces-voila/HEAD)
+  - 사진: \_binder_pic/infer_pic.ipynb
+  - 비디오: \_binder_vid/infer_vid.ipynb
+  - 웹캠: \_binder_cam/infer_cam.ipynb
 
 
 ###### references
