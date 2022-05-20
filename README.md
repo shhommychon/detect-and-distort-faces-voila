@@ -1,9 +1,13 @@
 # Detect and Distort Faces
 
+- 원본 튜토리얼 코드
+  - [zzsza/Boostcamp-AI-Tech-Product-Serving/part2/01-voila](https://github.com/zzsza/Boostcamp-AI-Tech-Product-Serving/tree/main/part2/01-voila)
+  - tutorial by [@zzsza](https://zzsza.github.io/about/)
+
 - Binder에서 이 repo를 실행: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shhommychon/detect-and-distort-faces-voila/HEAD)
-  - 사진: \_binder_pic/infer_pic.ipynb
-  - 비디오: \_binder_vid/infer_vid.ipynb
-  - 웹캠: \_binder_cam/infer_cam.ipynb
+  - 사진: [\_binder_pic/infer_pic.ipynb](./_binder_pic/infer_pic.ipynb)
+  - 비디오: [\_binder_vid/infer_vid.ipynb](./_binder_pic/infer_vid.ipynb)
+  - 웹캠: [\_binder_cam/infer_cam.ipynb](./_binder_pic/infer_cam.ipynb)
 
 
 ###### references
