@@ -9,6 +9,12 @@
   - 비디오: [\_binder_vid/infer_vid.ipynb](./_binder_pic/infer_vid.ipynb)
   - 웹캠: [\_binder_cam/infer_cam.ipynb](./_binder_pic/infer_cam.ipynb)
 
+- ※ 참고사항
+  1. binder에서는 이 repository 내용을 담은 docker image를 생성하며, 이 과정에서 시간이 많이 걸릴 수 있습니다.
+  2. 아래와 같은 에러가 뜨면 새로고침을 눌러주세요.
+  ![binder error](https://user-images.githubusercontent.com/38153357/169507759-e8c21322-1b30-4617-9620-50e21936f2c3.png)
+
+
 
 ###### references
 
