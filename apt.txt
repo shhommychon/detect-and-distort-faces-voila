@@ -1,0 +1,4 @@
+ffmpeg
+libgl1-mesa-glx
+libsm6
+libxext6
